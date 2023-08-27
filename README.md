@@ -2,8 +2,8 @@
 <h1 id="yada">YADA</h1>
 <p><strong>Explore</strong> | <strong>Travel</strong> | <strong>Write</strong></p>
 <p><a href="https://gitter.im/YADA_/community?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://badges.gitter.im/YADA_/community.svg" alt="Join the chat at https://gitter.im/YADA_/community"></a>
- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ [![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)]
+ [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]
 </p>
 </div>
 
